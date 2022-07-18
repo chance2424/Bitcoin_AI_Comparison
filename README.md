@@ -1,5 +1,6 @@
 # Bitcoin_AI_Comparison
 
+Creates AI comparisons for Bitcoin
 ---
 
 ## Technologies
