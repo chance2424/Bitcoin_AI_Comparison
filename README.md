@@ -10,6 +10,8 @@ This program was created using Python, Jupyter Notebook
 
 ## Installation Guide
 
+git clone https://github.com/chance2424/Bitcoin_AI_Comparison.git
+
 
 ---
 
