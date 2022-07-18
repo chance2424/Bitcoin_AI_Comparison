@@ -17,8 +17,7 @@ git clone https://github.com/chance2424/Bitcoin_AI_Comparison.git
 ---
 
 ## Contributors
-
-Starter code was provided by UC Berkeley and modifications were done by Chance Dion Griffin
+Modifications were done by Chance Dion Griffin
 
 ---
 
